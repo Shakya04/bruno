@@ -6,8 +6,8 @@
         }
     },
     "require": {
-        "laravel/framework": "~5.4",
-        "optimus/architect": "~1.0"
+        "laravel/framework": "^8.0",
+        "optimus/architect": "^8.0"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
